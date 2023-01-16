@@ -16,7 +16,7 @@ const projectNames = templates
 
 async function main() {
     console.log(`
-    ${chalk.bold.magenta('Welcome to 🏗  create-scaffold-eth')}
+    ${chalk.bold.magenta('Welcome to 🏗  create-scaffold-eth!')}
     `);
 
     program

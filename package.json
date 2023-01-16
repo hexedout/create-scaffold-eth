@@ -1,10 +1,14 @@
 {
     "name": "create-scaffold-eth",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "MIT",
     "bin": "index.js",
     "main": "index.js",
-    "description": "create starter kit to pull down scaffold-eth or any of it's challenges",
+    "description": "create starter kit to pull down scaffold-eth or any of its challenges",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hexedout/create-scaffold-eth.git"
+    },
     "keywords": [
         "scaffold-eth",
         "starter-kit",
