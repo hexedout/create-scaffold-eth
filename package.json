@@ -1,0 +1,22 @@
+{
+    "name": "create-scaffold-eth",
+    "version": "1.0.0",
+    "license": "MIT",
+    "bin": "index.js",
+    "main": "index.js",
+    "description": "create starter kit to pull down scaffold-eth or any of it's challenges",
+    "keywords": [
+        "scaffold-eth",
+        "starter-kit",
+        "create-scaffold-eth",
+        "ethereum",
+        "yarn"
+    ],
+    "dependencies": {
+        "commander": "^10.0.0",
+        "inquirer": "^8.0.0"
+    },
+    "devDependencies": {
+        "chalk": "^4.1.2"
+    }
+}
