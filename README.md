@@ -2,7 +2,8 @@
 
 A simple tool to help you clone a copy of the [scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) repo, or any of the current [Speed Run Ethereum](https://speedrunethereum.com) challenges
 
-<img src="https://i.imgur.com/ZI159uI.jpeg" />
+![howto](https://user-images.githubusercontent.com/122643453/212769842-d70c15bb-26b9-4c96-a2f5-757db7d9a36c.jpg)
+
 
 ## Usage ##
 ```sh
